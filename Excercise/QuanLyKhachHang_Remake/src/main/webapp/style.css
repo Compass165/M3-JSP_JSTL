@@ -1,0 +1,19 @@
+table {
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    text-transform: uppercase;
+    margin: .5em auto;
+    text-align: center;
+}
+
+
+.avatar {
+    text-align: center;
+    width: 150px;
+    height: 150px;
+
+
+}
